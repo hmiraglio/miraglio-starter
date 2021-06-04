@@ -1,4 +1,4 @@
-Miraglio's Starter
+Miraglio's Starter Theme for WordPress
 ===
 
 Starter theme meant for hacking. Includes ultra-minimal CSS.
